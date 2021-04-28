@@ -1,0 +1,10 @@
+
+
+.invalidFeedback {
+    color: red;
+}
+
+.registerUserForm, .loginUserForm {
+    width: 500px;
+    margin: auto;
+}
